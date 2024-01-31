@@ -1,0 +1,2 @@
+# Ativador
+Gerenciador de Licença.
